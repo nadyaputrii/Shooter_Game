@@ -1,4 +1,4 @@
-# Shooter Game Project - Programming Concepts
+# Shooter Game - Programming Concepts Project
 This Shooter Game application is the result of a project for the Programming Concepts course, developed by a team of 4 members.
 
 ## Team Profile
